@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Directory_Searcher
-build_property.ProjectDir = C:\Users\Farzad\Documents\PROJECTS\.NET LEARN\Directory_Searcher\
+build_property.ProjectDir = C:\Users\Farzad\Documents\directory-searcher\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
