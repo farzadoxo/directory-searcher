@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ogGrbbW0BFSU7YFe86OIOIEqoE1WId6bySjLsEwciy9aejqK8mJL9lKlreFx0LpXmGSYQQvHzVQqY5uq0x+UQ==",
+  "dgSpecHash": "xKgv4ejEL5zTnhK8HjEg4L3hcdvQiZaJPw89Qh/iOy0n5UffL24d8w101Nf0eLjxk7RkBGUXFe1DcN3LeKRVZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
+  "projectFilePath": "c:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

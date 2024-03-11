@@ -1,0 +1,60 @@
+[33mcommit e17ab3f5e3ad37b7cd1642e109e26f08e29eb3a7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 75f6b02 5e3554f
+Author: farzadoxo <farzadebrahimi.oxo@gmail.com>
+Date:   Mon Mar 11 09:33:16 2024 +0330
+
+    Merge branch 'master' of https://github.com/farzadoxo/directory-searcher
+
+[33mcommit 5e3554f136eb9b31256b43732d103523718f9aa3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Mon Mar 11 09:32:58 2024 +0330
+
+    Delete .gitignore
+
+[33mcommit 75f6b028eb3546803c54a8a99427806c6cc542a3[m
+Author: farzadoxo <farzadebrahimi.oxo@gmail.com>
+Date:   Mon Mar 11 09:31:14 2024 +0330
+
+    Controls going to left side and log system added
+
+[33mcommit 5f6c8e8f2d1ad91dc2baf87230352b040fb685af[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Sun Mar 10 19:42:27 2024 +0330
+
+    Rename .gitignor to .gitignore
+
+[33mcommit 4341d7f848a79340f7f68dd9b56e41188f9ab5c9[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Sun Mar 10 19:42:02 2024 +0330
+
+    Create .gitignor
+
+[33mcommit b68232632cdd3dc6d57127416c2bf213ea83616a[m
+Author: farzadoxo <farzadebrahimi.oxo@gmail.com>
+Date:   Sat Mar 9 20:13:22 2024 +0330
+
+    SECOND COMMIT
+
+[33mcommit aca464ff3d6affd26426aa5c012e80319131732b[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Wed Mar 6 20:00:48 2024 +0330
+
+    Add files via upload
+
+[33mcommit 3c80f607f342e56237c1bcd0eb437d9613e1f88d[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Wed Mar 6 19:59:55 2024 +0330
+
+    Delete Directory_Searcher directory
+
+[33mcommit 3ed9868448f951618d783a0248c5daacd4840fd5[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Wed Mar 6 19:59:22 2024 +0330
+
+    Upload to github.com
+
+[33mcommit 49cb07b1897b9758bdd9ce94ec0a41632da23b2d[m
+Author: Farzad Ebrahimi <farzadebrahimi.oxo@gmail.com>
+Date:   Wed Mar 6 19:58:06 2024 +0330
+
+    Initial commit
