@@ -35,21 +35,16 @@ partial class Form1
         this.BackColor = Color.Azure;
         this.FormBorderStyle = FormBorderStyle.FixedSingle;
         this.MaximizeBox = false;
+        this.Icon = new Icon(@"c:\users\farzad\documents\directory-searcher\media\folder.ico");
 
 
         // Defining the properties of controls
 
-        lblHead = new Label
-        {
-            Text = "Directory Searcher",
-            Location = new Point(5,5)
-        };
 
         btnSearch = new Button
         {
             Text = "Search",
-            
-            Location = new Point(300,70)
+            Location = new Point(396,10)
 
         };
 
@@ -57,53 +52,68 @@ partial class Form1
         txtPath = new TextBox
         {
             Size = new Size(350,20),
-            Location = new Point(170,40)
+            Location = new Point(40,10)
         };
 
         lstResault = new ListBox
         {
-            Location = new Point(75,110),
-            Size = new Size(550,330),
+            Location = new Point(7,74),
+            Size = new Size(600,370),
             BackColor = Color.WhiteSmoke
         };
 
         lblListBox = new Label
         {
             Text = "Resaults :",
-            Location = new Point(80,95),
+            Location = new Point(5,50),
             
         };
 
         lblPath = new Label
         {
             Text = "Path :",
-            Location = new Point(130,45)
+            Location = new Point(5,13)
         };
 
         lblStats = new Label
         {
             Text = "Status ⬇",
-            Location = new Point(630,100)
+            Location = new Point(610,80),
+            Visible = false
         };
 
         lblFileCount = new Label
         {
             Text = "",
-            Location = new Point(630,120)
+            Location = new Point(610,100)
         };
 
         lblFolderCount = new Label
         {
             Text = "",
-            Location = new Point(630,140),
+            Location = new Point(610,120),
             
+        };
+
+        btnLog = new Button
+        {
+            Text = "Log",
+            Location = new Point(396,35),
+            Enabled = false
+        };
+        
+        sfdLog = new SaveFileDialog
+        {
+            DefaultExt = "txt",
+            Title = "List your directory item in text file !",
+            Filter = "Text Files (*.txt)|*.txt"
         };
 
 
         // Add controls to form
 
         this.Controls.Add(btnSearch);
-        this.Controls.Add(lblHead);
+        this.Controls.Add(btnLog);
         this.Controls.Add(txtPath);
         this.Controls.Add(lstResault);
         this.Controls.Add(lblListBox);
@@ -119,7 +129,7 @@ partial class Form1
     #endregion
 
     // Define controls
-    private Label lblHead;
+
     private Button btnSearch;
     private TextBox txtPath;
     private ListBox lstResault;
@@ -128,5 +138,7 @@ partial class Form1
     private Label lblStats;
     private Label lblFileCount;
     private Label lblFolderCount;
+    private Button btnLog;
+    private SaveFileDialog sfdLog;
 
 }

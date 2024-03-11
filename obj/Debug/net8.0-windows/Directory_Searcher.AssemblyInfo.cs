@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Directory_Searcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aca464ff3d6affd26426aa5c012e80319131732b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68232632cdd3dc6d57127416c2bf213ea83616a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Directory_Searcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Directory_Searcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

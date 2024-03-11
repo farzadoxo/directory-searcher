@@ -7,6 +7,7 @@ public partial class Form1 : Form
     {
         InitializeComponent();
         btnSearch.Click += btnSearh_Click;
+        btnLog.Click += btnLog_Click;
     }
 
     private void btnSearh_Click(object sender , EventArgs e)
@@ -14,12 +15,14 @@ public partial class Form1 : Form
         lstResault.Items.Clear();
         string path = txtPath.Text;
         try
-        {   
+        {  
+            lblStats.Visible = true;
+            btnLog.Enabled = true; 
             // Directories
-            lstResault.Items.Add("------------------ Directories ------------------");
+            lstResault.Items.Add("------------------ 📂 Directories 📂------------------");
             lstResault.Items.AddRange(Directory.GetDirectories(path));
             // Files
-            lstResault.Items.Add("------------------ Files ------------------");
+            lstResault.Items.Add("------------------ 📄 Files 📄 ------------------");
             lstResault.Items.AddRange(Directory.GetFiles(path));
 
             // Status and counters
@@ -31,12 +34,25 @@ public partial class Form1 : Form
         }
         catch
         {
+            lblStats.Visible = false;
+            btnLog.Enabled = false;
             lstResault.Items.Clear();
             
             lblFileCount.Text = "";
             lblFolderCount.Text = "";
 
             MessageBox.Show("Invalid Path addres !","Invalid Path !!!",MessageBoxButtons.OK,MessageBoxIcon.Error);
+        }
+    }
+
+    private void btnLog_Click(object sender , EventArgs e)
+    {
+        if(sfdLog.ShowDialog() == DialogResult.OK)
+        {
+            File.WriteAllText(sfdLog.FileName,"---------- 📁 Directories 📁 ---------- \n\n");
+            File.AppendAllLines(sfdLog.FileName,Directory.GetDirectories(txtPath.Text));
+            File.AppendAllText(sfdLog.FileName,"\n ---------- 📄 Files 📄 ---------- \n\n");
+            File.AppendAllLines(sfdLog.FileName,Directory.GetFiles(txtPath.Text));
         }
     }
 }
