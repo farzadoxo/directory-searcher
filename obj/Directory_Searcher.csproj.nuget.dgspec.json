@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj": {}
+    "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj": {
+    "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
+        "projectUniqueName": "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
         "projectName": "Directory_Searcher",
-        "projectPath": "c:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
+        "projectPath": "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
         "packagesPath": "C:\\Users\\Farzad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Farzad\\Documents\\directory-searcher\\obj\\",
+        "outputPath": "C:\\Users\\Farzad\\Documents\\directory-searcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Farzad\\AppData\\Roaming\\NuGet\\NuGet.Config"
