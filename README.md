@@ -16,7 +16,7 @@ I'ts a project (application) for search and minig data from big directories and 
     - For edit and use project and codes you should install **.NET Core 8.0**
 
 # Screen shots
-<img src="readme\screen_shots\capture.png" width=400>
+<img src="https://github.com/farzadoxo/directory-searcher/readme\screen_shots\capture.png" width=400>
 <img src="readme\screen_shots\capture1.png" width=400>
 <img src="readme\screen_shots\capture2.png" width=400>
 <img src="readme\screen_shots\capture3.png" width=450>
