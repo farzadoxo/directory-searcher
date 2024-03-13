@@ -17,11 +17,15 @@ I'ts a project (application) for search and minig data from big directories and 
 
 # Screen shots
 <img src= "https://github.com/farzadoxo/directory-searcher/blob/master/readme%2Fscreen_shots%2FCapture.PNG" width=400>
-<img src="readme\screen_shots\capture1.png" width=400>
-<img src="readme\screen_shots\capture2.png" width=400>
-<img src="readme\screen_shots\capture3.png" width=450>
+
+<img src= "https://github.com/farzadoxo/directory-searcher/blob/master/readme%2Fscreen_shots%2FCapture1.PNG" width=400>
+
+<img src= "https://github.com/farzadoxo/directory-searcher/blob/master/readme%2Fscreen_shots%2FCapture2.PNG" width=400>
+
+<img src= "https://github.com/farzadoxo/directory-searcher/blob/master/readme%2Fscreen_shots%2FCapture3.PNG" width=450>
+
 <div align=center>
-<img src="readme\screen_shots\capture4.png" width=500>
+<img src= "https://github.com/farzadoxo/directory-searcher/blob/master/readme%2Fscreen_shots%2FCapture4.PNG" width=500>
 </div>
 
 # Changelog :
