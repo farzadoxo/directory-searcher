@@ -35,7 +35,7 @@ partial class Form1
         this.BackColor = Color.Azure;
         this.FormBorderStyle = FormBorderStyle.FixedSingle;
         this.MaximizeBox = false;
-        this.Icon = new Icon(@"c:\users\farzad\documents\directory-searcher\media\folder.ico");
+        this.Icon = new Icon(@"c:\users\farzad\documents\github repositories\directory-searcher\media\folder.ico");
 
 
         // Defining the properties of controls

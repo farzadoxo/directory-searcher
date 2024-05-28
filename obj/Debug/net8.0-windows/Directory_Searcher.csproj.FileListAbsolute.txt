@@ -27,3 +27,18 @@ C:\Users\Farzad\Documents\directory-searcher\obj\Debug\net8.0-windows\refint\Dir
 C:\Users\Farzad\Documents\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.pdb
 C:\Users\Farzad\Documents\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.genruntimeconfig.cache
 C:\Users\Farzad\Documents\directory-searcher\obj\Debug\net8.0-windows\ref\Directory_Searcher.dll
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\bin\Debug\net8.0-windows\Directory_Searcher.exe
+C:\Users\Farzad\Documents\Github Repositories\directory-searcher\bin\Debug\net8.0-windows\Directory_Searcher.deps.json
+C:\Users\Farzad\Documents\Github Repositories\directory-searcher\bin\Debug\net8.0-windows\Directory_Searcher.runtimeconfig.json
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\bin\Debug\net8.0-windows\Directory_Searcher.dll
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\bin\Debug\net8.0-windows\Directory_Searcher.pdb
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.AssemblyInfoInputs.cache
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.AssemblyInfo.cs
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.csproj.CoreCompileInputs.cache
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.sourcelink.json
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.dll
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\refint\Directory_Searcher.dll
+c:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.pdb
+C:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\Directory_Searcher.genruntimeconfig.cache
+C:\Users\Farzad\Documents\Github Repositories\directory-searcher\obj\Debug\net8.0-windows\ref\Directory_Searcher.dll

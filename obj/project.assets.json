@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
+      "projectUniqueName": "C:\\Users\\Farzad\\Documents\\Github Repositories\\directory-searcher\\Directory_Searcher.csproj",
       "projectName": "Directory_Searcher",
-      "projectPath": "C:\\Users\\Farzad\\Documents\\directory-searcher\\Directory_Searcher.csproj",
+      "projectPath": "C:\\Users\\Farzad\\Documents\\Github Repositories\\directory-searcher\\Directory_Searcher.csproj",
       "packagesPath": "C:\\Users\\Farzad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Farzad\\Documents\\directory-searcher\\obj\\",
+      "outputPath": "C:\\Users\\Farzad\\Documents\\Github Repositories\\directory-searcher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Farzad\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
